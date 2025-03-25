@@ -4,10 +4,6 @@ function setup() {
 }
 
 function draw() {
-    
-}
-
-function draw() {
     fill(0, 0, 0);
     ellipse(250, 300, 240, 450);
     //Tux body
