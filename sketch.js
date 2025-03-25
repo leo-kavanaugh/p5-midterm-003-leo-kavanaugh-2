@@ -12,14 +12,16 @@ function draw() {
     //Tux white
     fill(255, 255, 255);
     circle(210, 150, 50);
+    //tux left eye
     fill(0, 0, 0)
     circle(210, 150, 35);
-    //tux left eye and pupil
+    //tux left pupil
     fill(255, 255, 255);
     circle(275, 150, 50);
+    //tux left eye
     fill(0, 0, 0);
     circle(275, 150, 35);
-    //tux right eye and pupil
+    //tux right pupil
     fill(255, 137, 0);
     ellipse(240, 190, 115, 60);
     //tux beak
